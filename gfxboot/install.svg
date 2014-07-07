@@ -40,31 +40,7 @@
      inkscape:snap-global="true"
      inkscape:snap-nodes="false" />
   <defs
-     id="defs3035">
-    <filter
-       id="filter3823"
-       inkscape:label="Desaturate"
-       x="0"
-       y="0"
-       height="1"
-       width="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence3827"
-         numOctaves="3"
-         seed="68"
-         baseFrequency="0.20243902439024392"
-         result="fbSourceGraphic"
-         type="turbulence" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix3829" />
-    </filter>
-  </defs>
+     id="defs3035" />
   <metadata
      id="metadata3038">
     <rdf:RDF>
